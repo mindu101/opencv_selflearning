@@ -1,1 +1,2 @@
 # opencv_selflearning
+这是我的一个个人仓库，我在青大未来战队的所有作业记录，只包含opencv部分
