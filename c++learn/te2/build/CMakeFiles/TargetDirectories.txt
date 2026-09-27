@@ -1,0 +1,3 @@
+/home/mindu/c++learn/te2/build/CMakeFiles/zuoye_two.dir
+/home/mindu/c++learn/te2/build/CMakeFiles/edit_cache.dir
+/home/mindu/c++learn/te2/build/CMakeFiles/rebuild_cache.dir

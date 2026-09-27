@@ -1,0 +1,3 @@
+/home/mindu/c++learn/file_work1/op/CMakeFiles/testopencv.dir
+/home/mindu/c++learn/file_work1/op/CMakeFiles/edit_cache.dir
+/home/mindu/c++learn/file_work1/op/CMakeFiles/rebuild_cache.dir

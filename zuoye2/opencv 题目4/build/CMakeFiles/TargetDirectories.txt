@@ -1,0 +1,3 @@
+/home/mindu/zuoye2/opencv 题目4/build/CMakeFiles/MyExecutable.dir
+/home/mindu/zuoye2/opencv 题目4/build/CMakeFiles/edit_cache.dir
+/home/mindu/zuoye2/opencv 题目4/build/CMakeFiles/rebuild_cache.dir

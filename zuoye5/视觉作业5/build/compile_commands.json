@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mindu/zuoye5/视觉作业5/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o CMakeFiles/MyExecutable.dir/main.cpp.o -c /home/mindu/zuoye5/视觉作业5/main.cpp",
+  "file": "/home/mindu/zuoye5/视觉作业5/main.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/main.cpp.o"
+}
+]

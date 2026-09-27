@@ -1,0 +1,3 @@
+/home/mindu/zuoye3_12_23/build/CMakeFiles/MyExecutable.dir
+/home/mindu/zuoye3_12_23/build/CMakeFiles/edit_cache.dir
+/home/mindu/zuoye3_12_23/build/CMakeFiles/rebuild_cache.dir
